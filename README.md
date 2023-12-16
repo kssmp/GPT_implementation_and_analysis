@@ -1,4 +1,7 @@
-# Implementation and Optimization of the GPT-2 Model
+# Implementation and Optimization of the GPT-2 Model 
+Name : Saket Koppineedi
+Enrollment no. : BT20ECE114
+Email Id : saketkoppineedi@gmail.com
 
 ---
 
