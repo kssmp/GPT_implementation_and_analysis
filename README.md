@@ -68,5 +68,5 @@ The training loop iterates over the specified number of iterations (max_iters), 
 - [OpenAI repository](https://github.com/openai/gpt-2)
 - [Andrej Karpathy](https://github.com/karpathy/nanoGPT)
 - [Attention is all you need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
-- [ChatGPT (ironically!!)](https://chat.openai.com/)
+- [ChatGPT](https://chat.openai.com/)
   
